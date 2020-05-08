@@ -14,4 +14,6 @@ The code is written in AutoIt and PHP. It may however be better ported to anothe
 I'm unlikely to continue with the project, so wanted to make the code public in case its of use to anyone else or
 am happy to work on it further with others.
 
+I've not currently included the ground control software on this repository.
+
 Read design.pdf for more information.
